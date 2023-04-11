@@ -1,3 +1,40 @@
-body {
-  background-color: aliceblue;
+h1{
+  color: yellow;
+  margin-bottom: 150px;
+}
+
+p{
+  color: rgb(0, 255, 0);
+}
+
+article{
+  width: 70%;
+  margin: 45px auto;
+
+}
+
+#s3 {
+  font-family: 'Courier New', Courier, monospace;
+  border: dotted blue 15px;
+}
+
+#walmart {
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  border: solid pink 10px;
+}
+
+#trexis {
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  border: dashed brown 5px;
+}
+
+article>h2 {
+  color: yellow;
+}
+
+ body {
+  text-align: center;
+  background-image: url(https://png.pngtree.com/background/20210712/original/pngtree-modern-double-color-futuristic-neon-background-picture-image_1181573.jpg) ;
+  background-repeat: no-repeat;
+  background-size: 100% 130%;
 }
