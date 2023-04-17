@@ -1,4 +1,5 @@
 # LAB: HTML Resume
+https://masons-html-resume.netlify.app/
 
 ## Get Started
 - [Clone](https://nss-evening-curriculum.netlify.app/client/08-clone-github-repos) this repo into `~/workspace/foundations/inclass/`
