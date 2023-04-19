@@ -21,6 +21,6 @@ You will be building an HTML version of your resume
 - Each article should use a different font family.
 - All article headings should be the same font color (don't be boring).
 - Site should have a background color or background image. Images google filtered for "Royalty Free"
-- Each article should have a different border(weight,style,color).
+- Each article should have a different border(weight,style,color)
 
 NOTE: If you have less than two previous employers, either use your educational instituions as a substitute or make them up.
